@@ -1,4 +1,8 @@
-# AWS S3 Static Website Hosting
+## Live Website
+
+Visit my portfolio website:
+
+[View My AWS Portfolio](PASTE-YOUR-S3-WEBSITE-ENDPOINT-HERE)
 
 ## Project Overview
 This project demonstrates how to host a static portfolio website using Amazon S3.
